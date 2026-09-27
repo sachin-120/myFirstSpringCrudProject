@@ -202,7 +202,7 @@ curl -X DELETE http://localhost:8080/CRUD/deleteTask/task/1
 
 ## Author
 
-**[Your Name]**
+**Sachin Santosh Sharma**
 Beginner Java / Spring Boot developer, building projects to learn backend development.
 
 - GitHub: https://github.com/sachin-120
